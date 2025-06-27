@@ -4,7 +4,7 @@
 Command Line Interface for md2xmind
 
 @Author  : Tan_928
-@Time    : 2019-07-20
+@Time    : 2025-06-20
 @desc    : CLI tool to convert Markdown files to XMind format
 """
 
